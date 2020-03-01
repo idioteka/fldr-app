@@ -1,0 +1,10 @@
+{
+  "name": "fldr-app",
+  "description": "parse-server for fldr-app",
+  "scripts": {
+    "start": "parse-server config.json"
+  },
+  "dependencies": {
+    "parse-server": "^3.9.0"
+  }
+}

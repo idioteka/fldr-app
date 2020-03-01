@@ -1,0 +1,7 @@
+{
+  "appId": "llkPPp6z8UrHQspudGuDk1iHfid6aiBMHnUM3CXX",
+  "masterKey": "XorVyiRWo7ovwTczIsxqhGkH3PYO8awUpTu5kO8h",
+  "appName": "fldr-app",
+  "cloud": "./cloud/main",
+  "databaseURI": "mongodb://127.0.0.1:27017/parse"
+}
